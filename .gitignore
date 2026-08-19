@@ -1,0 +1,17 @@
+# e++Compiler binaries
+e++Compiler/a.exe
+e++Compiler/targ++.exe
+
+# expressionEvaluator binaries
+expressionEvaluator/a
+expressionEvaluator/ab
+expressionEvaluator/a.exe
+expressionEvaluator/b.exe
+expressionEvaluator/c.exe
+expressionEvaluator/ulimitedint.exe
+
+# catch-all for any future/other binaries
+*.exe
+*.o
+*.obj
+*.out
